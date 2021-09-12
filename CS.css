@@ -5,21 +5,21 @@
 .rcorners1 {
 	border-radius: 10px;
 	background: #007CBA;
-	padding: 30px; 
+	padding: 50px; 
 	width: 90%;
 	height: 10%;
-	margin: 7px;
-	font-size: 3em;
+	margin: 11px;
+	font-size: 1.5em;
 
 }
 .rcorners2 {
 	border-radius: 10px;
 	background: #333333;
-	padding: 30px; 
+	padding: 50px; 
 	width: 90%;
 	height: 10%;
-	margin: 7px;
-	font-size: 3em;
+	margin: 11px;
+	font-size: 1.5em;
 }
 .linktext	{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
@@ -30,7 +30,7 @@
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #333333;
 	text-decoration: none;
-	font-size: 3em;
+	font-size: 1.2em;
 	font-style: italic;
 	padding: 20px;
 }
@@ -48,8 +48,7 @@
 	font-family: "verdana";
 	color: #ffffff;
 	text-decoration: none;
-	font-size: 4em;
-	padding: 10px;
+	font-size: 2em;
 	position: absolute;
 	top: 50%;
 	left: 50%;
