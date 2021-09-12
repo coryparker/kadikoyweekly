@@ -5,8 +5,8 @@
 	border-radius: 10px;
 	background: #FFFFFF;
 	max-width: 750px;
-	padding: 60px;
-	margin: 30px;}
+	padding: 45px;
+	margin: 60px;}
 .bg {
 background: rgb(255,163,82);
 background: radial-gradient(circle, rgba(255,163,82,1) 0%, rgba(255,137,87,1) 57%, rgba(154,72,28,1) 100%);
@@ -17,7 +17,6 @@ background: radial-gradient(circle, rgba(255,163,82,1) 0%, rgba(255,137,87,1) 57
 	background: #007CBA;
 	padding: 50px; 
 	width: 80%;
-	height: 2%;
 	margin: 22px;
 }
 .rcorners2 {
@@ -25,7 +24,6 @@ background: radial-gradient(circle, rgba(255,163,82,1) 0%, rgba(255,137,87,1) 57
 	background: #98dd8c;
 	padding: 50px; 
 	width: 80%;
-	height: 2%;
 	margin: 22px;
 }
 .linktext	{
