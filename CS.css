@@ -4,23 +4,21 @@
 .body {  max-width: 600px;
   margin: auto;}
 .rcorners1 {
-	border-radius: 10px;
+	border-radius: 12px;
 	background: #007CBA;
-	padding: 50px; 
+	padding: 20px; 
 	width: 90%;
-	height: 10%;
 	margin: 3%;
-	font-size: 1.8em;
+	font-size: 1.4em;
 
 }
 .rcorners2 {
-	border-radius: 10px;
+	border-radius: 12px;
 	background: #333333;
-	padding: 50px; 
+	padding: 20px; 
 	width: 90%;
-	height: 10%;
 	margin: 3%;
-	font-size: 1.8em;
+	font-size: 1.4em;
 }
 .linktext	{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
@@ -31,24 +29,23 @@
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #333333;
 	text-decoration: none;
-	font-size: 1.4em;
+	font-size: 1.2em;
 	font-style: italic;
-	padding: 20px;
 }
 .container {
-  position: relative;
+  position:relative;
   text-align: center;
   color: white;
 }
 .banner {
 	filter: brightness(40%);
 	width: 100%;
-	margin: 3%;
+	margin: 0%;
 
 
 }
 .maintext {
-	font-family: "verdana";
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #ffffff;
 	text-decoration: none;
 	font-size: 2em;
