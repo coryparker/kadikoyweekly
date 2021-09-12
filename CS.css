@@ -6,20 +6,20 @@
 	border-radius: 10px;
 	background: #007CBA;
 	padding: 50px; 
-	width: 90%;
+	width: 70%;
 	height: 10%;
 	margin: 11px;
-	font-size: 1.5em;
+	font-size: 1.8em;
 
 }
 .rcorners2 {
 	border-radius: 10px;
 	background: #333333;
 	padding: 50px; 
-	width: 90%;
+	width: 70%;
 	height: 10%;
 	margin: 11px;
-	font-size: 1.5em;
+	font-size: 1.8em;
 }
 .linktext	{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
@@ -30,7 +30,7 @@
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #333333;
 	text-decoration: none;
-	font-size: 1.2em;
+	font-size: 1.4em;
 	font-style: italic;
 	padding: 20px;
 }
