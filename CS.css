@@ -1,24 +1,25 @@
+
 @charset "UTF-8";
 /* Body */
 .body {margin: 10px;}
 .rcorners1 {
 	border-radius: 10px;
 	background: #007CBA;
-	padding: 20px; 
+	padding: 30px; 
 	width: 90%;
 	height: 10%;
 	margin: 7px;
-	font-size: 5em;
+	font-size: 3em;
 
 }
 .rcorners2 {
 	border-radius: 10px;
 	background: #333333;
-	padding: 20px; 
+	padding: 30px; 
 	width: 90%;
 	height: 10%;
 	margin: 7px;
-	font-size: 5em;
+	font-size: 3em;
 }
 .linktext	{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
@@ -29,7 +30,7 @@
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #333333;
 	text-decoration: none;
-	font-size: 4em;
+	font-size: 3em;
 	font-style: italic;
 	padding: 20px;
 }
@@ -45,10 +46,9 @@
 }
 .maintext {
 	font-family: "verdana";
-	font-weight: bolder;
 	color: #ffffff;
 	text-decoration: none;
-	font-size: 5em;
+	font-size: 4em;
 	padding: 10px;
 	position: absolute;
 	top: 50%;
