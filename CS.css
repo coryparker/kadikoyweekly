@@ -7,16 +7,16 @@
 .rcorners1 {
 	border-radius: 10px;
 	background: #007CBA;
-	padding: 30px; 
-	width: 90%;
+	padding: 50px; 
+	width: 80%;
 	height: 2%;
 	margin: 22px;
 }
 .rcorners2 {
 	border-radius: 10px;
 	background: #333333;
-	padding: 30px; 
-	width: 90%;
+	padding: 50px; 
+	width: 80%;
 	height: 2%;
 	margin: 22px;
 }
@@ -33,6 +33,7 @@
 	padding: 20px;
 }
 .container {
+	margin: 22px;
  	 position: relative;
  	 text-align: center;
  	 color: white;
