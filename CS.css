@@ -1,12 +1,13 @@
 
 @charset "UTF-8";
 /* Body */
-.body {width: 80%}
+.body {  max-width: 600px;
+  margin: auto;}
 .rcorners1 {
 	border-radius: 10px;
 	background: #007CBA;
 	padding: 50px; 
-	width: 80%;
+	width: 90%;
 	height: 10%;
 	margin: 3%;
 	font-size: 1.8em;
@@ -16,7 +17,7 @@
 	border-radius: 10px;
 	background: #333333;
 	padding: 50px; 
-	width: 80%;
+	width: 90%;
 	height: 10%;
 	margin: 3%;
 	font-size: 1.8em;
@@ -42,6 +43,8 @@
 .banner {
 	filter: brightness(40%);
 	width: 100%;
+	margin: 3%;
+
 
 }
 .maintext {
