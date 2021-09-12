@@ -1,8 +1,9 @@
 
 @charset "UTF-8";
 /* Body */
-.body {margin: auto}
-.body2 {width: 75%}
+.body {margin: auto
+}
+.body2 {width: 85%}
 
 .rcorners1 {
 	border-radius: 10px;
@@ -31,6 +32,8 @@
 	text-decoration: none;
 	font-style: italic;
 	padding: 20px;
+		font-size: 2em;
+
 }
 .container {
 	margin: 22px;
@@ -40,6 +43,7 @@
 }
 .bg{
 	filter: brightness(40%);
+	width: 90%;
 }
 .maintext {
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
