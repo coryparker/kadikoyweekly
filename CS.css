@@ -34,12 +34,13 @@ background: radial-gradient(circle, rgba(255,163,82,1) 0%, rgba(255,137,87,1) 57
 	text-decoration: none;
 }
 .bio	{
-	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: #333333;
 	text-decoration: none;
 	font-style: italic;
-	padding: 20px;
-	font-size: 2em;
+	padding: 10px;
+	font-size: 1.2em;
 
 }
-
+ .img {border-radius: 1%;
+}
