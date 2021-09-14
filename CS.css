@@ -8,6 +8,7 @@
 .bg {
 	background: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
 	background-color: #C13A3D;
+	padding: env(safe-area-inset);
 }
 .rcorners1 {
 	border-radius: 10px;
