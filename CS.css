@@ -4,7 +4,7 @@
 	border-radius: 10px;
 	background: #FFFFFF;
 	max-width: 750px;
-	padding: 4px;
+	padding: 5px;
 	margin: 10px;}
 .bg {
 	background-color: darkred;
@@ -15,16 +15,16 @@
 .rcorners1 {
 	border-radius: 10px;
 	background: #007CBA;
-	padding: 50px; 
-	width: 80%;
-	margin: 22px;
+	padding: 5%; 
+	width: 85%;
+	margin: 2%;
 }
 .rcorners2 {
 	border-radius: 10px;
 	background: #98dd8c;
-	padding: 50px; 
-	width: 80%;
-	margin: 22px;
+	padding: 5%; 
+	width: 85%;
+	margin: 2%;
 }
 .linktext	{
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
