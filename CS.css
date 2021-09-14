@@ -32,20 +32,7 @@
 	background: #994390;
 	padding: 5%; 
 	width: 85%;
-	margin: 2%;
-  display: inline-block;
-}
-.linktext2	{
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	color: #ffffff;
-	text-decoration: none;
-	border-radius: 10px;
-	background: #994390;
-	padding: 5%; 
-	width: 85%;
-	margin: 2%;
-  display: inline-block;
-}
+	margin: 2%;}
 .linktext	{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #ffffff;
@@ -63,4 +50,3 @@
  .img {border-radius: 5px;
 	 width: 100%;
 }
-
