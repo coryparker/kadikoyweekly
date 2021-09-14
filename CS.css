@@ -10,24 +10,28 @@
 	background-color: #3f6357;
 	padding: env(safe-area-inset);
 }
-.rcorners1 {
-	border-radius: 10px;
-	background: #006194;
-	padding: 5%; 
-	width: 85%;
-	margin: 2%;
-}
-.rcorners2 {
+.linktext1	{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #ffffff;
+	text-decoration: none;
 	border-radius: 10px;
 	background: #994390;
 	padding: 5%; 
 	width: 85%;
 	margin: 2%;
+  display: inline-block;
 }
-.linktext	{
+.linktext2	{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #ffffff;
-	text-decoration: none;}
+	text-decoration: none;
+	border-radius: 10px;
+	background: #006194;
+	padding: 5%; 
+	width: 85%;
+	margin: 2%;
+	display: inline-block;
+}
  
 .bio	{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
