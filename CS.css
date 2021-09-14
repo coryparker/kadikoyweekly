@@ -4,8 +4,8 @@
 	border-radius: 10px;
 	background: #FFFFFF;
 	max-width: 750px;
-	padding: 45px;
-	margin: 60px;}
+	padding: 4px;
+	margin: 10px;}
 .bg {
 	background-color: darkred;
 	background: rgb(255,163,82);
@@ -41,4 +41,5 @@
 
 }
  .img {border-radius: 1%;
+	 width: 100%;
 }
