@@ -25,15 +25,15 @@
 	margin: 2%;
 }
 .linktext	{
-	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #ffffff;
-	text-decoration: none;
-}
+	text-decoration: none;}
+ 
 .bio	{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #5C5C61;
 	text-decoration: none;
-	padding: 20px;
+	padding: 3%;
 	font-size: 1em;
 	text-align: justify;
 
