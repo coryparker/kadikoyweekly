@@ -4,12 +4,11 @@
 	background: #FFFFFF;
 	max-width: 750px;
 	padding: 5px;
-	width: 95%;
+	width: 99%;
 	margin: 0px;}
 .bg {
 	background: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
 	background-color: #3f6357;
-	padding: env(safe-area-inset);
 }
 .linktext1	{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
@@ -20,6 +19,7 @@
 	padding: 5%; 
 	width: 85%;
 	margin: 2%;
+		font-size: 1.5em;
 	display: inline-block;
 
 }
@@ -32,20 +32,18 @@
 	padding: 5%; 
 	width: 85%;
 	margin: 2%;
+		font-size: 1.5em;
+
 	display: inline-block;
 
 }
-.linktext	{
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	color: #ffffff;
-	text-decoration: none;}
  
 .bio	{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #5C5C61;
 	text-decoration: none;
 	padding: 3%;
-	font-size: 1.3em;
+	font-size: 1.5em;
 	text-align: justify;
 
 }
