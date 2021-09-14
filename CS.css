@@ -8,7 +8,7 @@
 .bg {
 	background-color: #9f421b;
 	background: rgb(255,234,209);
-background: radial-gradient(circle, rgba(255,234,209,1) 0%, rgba(159,66,27,1) 73%, rgba(92,41,12,1) 100%);
+background: radial-gradient(circle, rgba(255,234,209,1) 0%, rgba(159,66,27,1) 73%, rgba(92,41,12,1) 100%); padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
 }
 .rcorners1 {
 	border-radius: 10px;
