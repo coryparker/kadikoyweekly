@@ -1,11 +1,12 @@
 
 /* Body */
 .body {	
-	border-radius: 10px;
+	border-radius: 1%;
 	background: #FFFFFF;
 	max-width: 750px;
-	padding: 5px;
-	margin: 10px;}
+	width: 100%;
+	padding: 1%;
+	margin: 1%;}
 .bg {
 	background-color: darkred;
 	background: rgb(255,163,82);
