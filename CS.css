@@ -2,9 +2,9 @@
 .body {	
 	border-radius: 7px;
 	background: #FFFFFF;
-	max-width: 750px;
+	max-width: 95%;
 	padding: 5px;
-	margin: 0px;}
+	width: 99%}
 .bg {
 	background: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
 	background-color: #3f6357;
@@ -38,7 +38,7 @@
 	color: #5C5C61;
 	text-decoration: none;
 	padding: 3%;
-	font-size: 1em;
+	font-size: 1.3em;
 	text-align: justify;
 
 }
