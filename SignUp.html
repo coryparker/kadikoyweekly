@@ -9,6 +9,7 @@
     />
 <link rel="stylesheet" href="CS.css" type="text/css">
 <title>Kadikoy Weekly Meetup</title>
+	<script language="JavaScript" src="scripts/gen_validatorv31.js" type="text/javascript"></script>
 </head>
 	
 <body class="bg">	
@@ -22,33 +23,25 @@
 <! --- Bio Text --->
 
 <div>
-	<p class="bio">Join us <b>every Friday at 8PM</b> in Kadikoy at for beer and conversation with expats, locals, and travelers. We meet at Inanna at Caferağa, Miralay Nazım Sk. No:28, 34710 Kadıköy/İstanbul up the stairs. </p>
+	<p class="bio">Just fill out the form below so I can keep track of how many people to expect!</p>
 	</div>
 	
 <! --- Form --->
-	
-	<script language="JavaScript" src="scripts/gen_validatorv31.js" type="text/javascript"></script>
-</head>	
-</head>
 
-<body>
 <h1>Contact us</h1>
 <form method="POST" name="contactform" action="contact-form-handler.php"> 
 <p>
-<label for='name'>Your Name:</label> <br>
+<label for="name">Your Name:</label> <br>
 <input type="text" name="name">
 </p>
 <p>
-<label for='message'>Message:</label> <br>
+<label for="message">Message:</label> <br>
 <textarea name="message"></textarea>
 </p>
 <input type="submit" value="Submit"><br>
 </form>
 
 <script language="JavaScript">
-// Code for validating the form
-// Visit http://www.javascript-coder.com/html-form/javascript-form-validation.phtml
-// for details
 var frmvalidator  = new Validator("contactform");
 frmvalidator.addValidation("name","req","Please provide your name"); 
 frmvalidator.addValidation("email","req","Please provide your email"); 
