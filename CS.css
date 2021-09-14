@@ -1,16 +1,15 @@
 /* Body */
 .body {	
-	border-radius: 10px;
+	border-radius: 7px;
 	background: #FFFFFF;
 	max-width: 750px;
 	padding: 5px;
 	margin: 0px;}
 .bg {
-	background-color: darkred;
-	background: rgb(255,163,82);
-	background: radial-gradient(circle, rgba(255,163,82,1) 0%, rgba(255,137,87,1) 57%, rgba(154,72,28,1) 100%);
+	background-color: #9f421b;
+	background: rgb(255,234,209);
+background: radial-gradient(circle, rgba(255,234,209,1) 0%, rgba(159,66,27,1) 73%, rgba(92,41,12,1) 100%);
 }
-
 .rcorners1 {
 	border-radius: 10px;
 	background: #007CBA;
@@ -39,7 +38,6 @@
 	font-size: 1.2em;
 
 }
- .img {border-radius: 1%;
+ .img {border-radius: 5px;
 	 width: 100%;
 }
-
