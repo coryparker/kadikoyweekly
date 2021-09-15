@@ -5,44 +5,47 @@
 	max-width: 750px;
 	padding: 5px;
 	margin: 0px;}
- .bg {
- 	background: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
+.bg {
+	background: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
  	background-color: #3f6357;
-	 	margin: 0px;
+ 	padding: env(safe-area-inset);
  }
- .linetext1 {
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	color: #ffffff;
-	text-decoration: none;
-	border-radius: 10px;
-	background: #994390;
-	padding: 5%; 
-	width: 85%;
-	margin: 2%;
-	display: inline-block;
+ .linktext1	{
+ 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+ 	color: #ffffff;
+ 	text-decoration: none;
+ 	border-radius: 10px;
+ 	background: #006194;
+ 	background: #994390;
+ 	padding: 5%; 
+ 	width: 85%;
+ 	margin: 2%;
+   display: inline-block;
+ }
+ .linktext2	{
+ 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+ 	color: #ffffff;
+ 	text-decoration: none;
+ 	border-radius: 10px;
+ 	background: #994390;
+ 	background: #006194;
+ 	padding: 5%; 
+ 	width: 85%;
+ 	margin: 2%;
+ 	display: inline-block;
+ }
+ .linktext	{
+ 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+ 	color: #ffffff;
+ 	text-decoration: none;}
 
-}
-.linktext2	{
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	color: #ffffff;
-	text-decoration: none;
-	border-radius: 10px;
-	background: #006194;
-	padding: 5%; 
-	width: 85%;
-	margin: 2%;
-	display: inline-block;
-
-}
- 
-.bio	{
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+ .bio	{
+ 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #5C5C61;
 	text-decoration: none;
 	padding: 3%;
-	font-size: 1.2em;
+	font-size: 1em;
 	text-align: justify;
-
 }
  .img {border-radius: 5px;
 	 width: 100%;
