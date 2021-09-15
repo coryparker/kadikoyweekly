@@ -15,7 +15,6 @@
  	color: #ffffff;
  	text-decoration: none;
  	border-radius: 10px;
- 	background: #006194;
  	background: #994390;
  	padding: 5%; 
  	width: 85%;
@@ -27,7 +26,6 @@
  	color: #ffffff;
  	text-decoration: none;
  	border-radius: 10px;
- 	background: #994390;
  	background: #006194;
  	padding: 5%; 
  	width: 85%;
@@ -37,14 +35,15 @@
  .linktext	{
  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
  	color: #ffffff;
- 	text-decoration: none;}
+ 	text-decoration: none;
+}
 
  .bio	{
  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #5C5C61;
 	text-decoration: none;
 	padding: 1%;
-	font-size: 1.2em;
+	font-size: 1em;
 	text-align: justify;
 	width:94%;
 }
