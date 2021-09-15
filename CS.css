@@ -43,9 +43,10 @@
  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #5C5C61;
 	text-decoration: none;
-	padding: 3%;
+	padding: 1%;
 	font-size: 1.2em;
 	text-align: justify;
+	width:94%;
 }
  .img {border-radius: 5px;
 	 width: 100%;
