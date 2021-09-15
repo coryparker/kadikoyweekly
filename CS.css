@@ -4,11 +4,11 @@
 	background: #FFFFFF;
 	max-width: 750px;
 	padding: 5px;
-		margin: 0px;}
+	margin: 0px;}
  .bg {
  	background: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
- 	background-color: #C13A3D;
  	background-color: #3f6357;
+	 	margin: 0px;
  }
  .linetext1 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
@@ -43,9 +43,6 @@
 	font-size: 1.2em;
 	text-align: justify;
 
-}
- .img {border-radius: 5px;
-	 width: 100%;
 }
  .img {border-radius: 5px;
 	 width: 100%;
