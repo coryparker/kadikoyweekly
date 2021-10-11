@@ -1,6 +1,6 @@
 /* Body */
 body{
-	background-image: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) fixed);
+	background-image: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
 	height:100%;
    	background-attachment: absolute;
 	background-color: #3f6357;
