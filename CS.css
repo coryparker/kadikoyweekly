@@ -7,7 +7,7 @@ body{
  	background-repeat: repeat;
  
 }
-.body {	
+.form {	
 	border-radius: 7px;
 	background: #FFFFFF;
 	max-width: 750px;
@@ -36,11 +36,6 @@ body{
  	margin: 2%;
  	display: inline-block;
  }
- .linktext	{
- 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
- 	color: #ffffff;
- 	text-decoration: none;
-}
  .bio	{
  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #5C5C61;
