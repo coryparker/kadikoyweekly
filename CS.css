@@ -1,11 +1,17 @@
 /* Body */
+html{height:100%;}
+body{
+	background-image: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
+	height:100%;
+ 
+}
 .body {	
 	border-radius: 7px;
 	background: #FFFFFF;
 	max-width: 750px;
 	padding: 5px;
 	margin: 0px;}
-.bg {
+.bgf {
 	background-image: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
 	height: 100%;
 	margin: 0;
