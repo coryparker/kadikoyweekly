@@ -8,6 +8,7 @@
 .bg {
  	background-color: #3f6357;
 	background-image: linear-gradient(to bottom right, #7d9b91, #3f6357);
+	background-repeat: repeat;
 	height: 100%;
  }
  .linktext1	{
