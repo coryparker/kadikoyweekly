@@ -9,7 +9,7 @@
  	background-color: #3f6357;
 	background-repeat: repeat;
 	background-image: linear-gradient(to bottom right, #7d9b91, #3f6357);
-
+	height: 100%;
  }
  .linktext1	{
  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
