@@ -1,6 +1,6 @@
 /* Body */
 body{
-	background-image: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) 100%);
+	background-image: radial-gradient(circle, rgba(200,206,206,1) 0%, rgba(111,144,133,1) 73%, rgba(63,99,87,1) fixed);
 	height:100%;
    	background-attachment: absolute;
 	background-color: #3f6357;
@@ -12,8 +12,8 @@ body{
 	background: #FFFFFF;
 	max-width: 750px;
 	padding: 5px;
-	margin: 0px;}
-
+	margin: 0px;
+}
  .linktext1	{
  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
  	color: #ffffff;
@@ -23,10 +23,11 @@ body{
  	padding: 5%; 
  	width: 85%;
  	margin: 2%;
-    display: inline-block;
+  	display: inline-block;
  }
  .linktext2	{
- 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; 	color: #ffffff;
+ 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; 	
+	color: #ffffff;
  	text-decoration: none;
  	border-radius: 10px;
  	background: #006194;
@@ -40,7 +41,6 @@ body{
  	color: #ffffff;
  	text-decoration: none;
 }
-
  .bio	{
  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #5C5C61;
