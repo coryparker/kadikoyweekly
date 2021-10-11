@@ -7,7 +7,7 @@
 	margin: 0px;}
 .bg {
  	background-color: #3f6357;
-	background-image: linear-gradient(#7d9b91, #3f6357);
+	background-image: linear-gradient(to bottom right, #7d9b91, #3f6357);
 	height: 100%;
 	margin: 0;
 	background-repeat: no-repeat;
