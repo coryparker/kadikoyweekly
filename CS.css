@@ -7,7 +7,7 @@ body{
 	height:100vh;
 	background-color: #3f6357;
  	background-repeat: no-repeat;
-	background-attachment: absolute;
+	background-attachment: fixed;
 
  
 }
