@@ -3,14 +3,12 @@ body{
 	height:100%;
   	background-image: url(bg.png);
   	background-attachment: fixed;
-	background: #000000;
-
 }
 .form {	
-	border-radius: 6px;
+	border-radius: 8px;
 	background: #ffffff;
 	max-width: 750px;
-	padding: 9px;
+	padding: 6px;
 	margin: 0px;
 }
  .linktext1	{
