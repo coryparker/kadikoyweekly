@@ -2,17 +2,14 @@
 body{
 	height:100%;
     background-image: url(bg.png);
-    background-color: #400e19;
  	background-repeat: repeat;
-	background-attachment: fixed;
-
- 
+    background-attachment: fixed;
 }
 .form {	
 	border-radius: 8px;
 	background: #ffffff;
 	max-width: 750px;
-	padding: 9px;
+	padding: 10px;
 	margin: 0px;
 }
  .linktext1	{
