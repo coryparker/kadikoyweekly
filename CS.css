@@ -1,39 +1,41 @@
 /* Body */
 body{
-	background: linear-gradient(180deg, rgba(63,99,87,1) 0%, rgba(200,206,206,1) 67%, rgba(63,99,87,1)) fixed;
 	height:100%;
-	background-color: #3f6357;
+    background: linear-gradient(180deg, rgba(237,2,82,1) 0%, rgba(64,14,25,1) 100%);
+	background-color: #400e19;
  	background-repeat: no-repeat;
  
 }
 .form {	
-	border-radius: 7px;
-	background: #FFFFFF;
+	border-radius: 10px;
+	background: #ffffff;
 	max-width: 750px;
-	padding: 5px;
+	padding: 4px;
 	margin: 0px;
 }
  .linktext1	{
- 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-family: Arial, Helvetica, sans-serif;
  	color: #ffffff;
  	text-decoration: none;
- 	border-radius: 10px;
- 	background: #AA4655;
- 	padding: 5%; 
- 	width: 85%;
- 	margin: 2%;
+    font-weight: bold;
+ 	border-radius: 6px;
+ 	background: #E33554;
+ 	padding: 8%; 
+ 	width: 82%;
+ 	margin: 1%;
   	display: inline-block;
  }
  .linktext2	{
- 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; 	
+    font-family: Arial, Helvetica, sans-serif;
 	color: #ffffff;
  	text-decoration: none;
- 	border-radius: 10px;
- 	background: #0E6D8A;
- 	padding: 5%; 
- 	width: 85%;
- 	margin: 2%;
- 	display: inline-block;
+    font-weight: bold;
+ 	border-radius: 6px;
+ 	background: #2068B2;
+ 	padding: 8%; 
+ 	width: 82%;
+ 	margin: 1%;
+  	display: inline-block;
  }
  .bio	{
  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
@@ -41,9 +43,9 @@ body{
 	text-decoration: none;
 	padding: 1%;
 	font-size: 1em;
-	text-align: justify;
+	text-align: center;
 	width:94%;
 }
- .img {border-radius: 5px;
+ .img {border-radius: 10px;
 	 width: 100%;
 }
