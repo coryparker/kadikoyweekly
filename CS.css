@@ -1,0 +1,69 @@
+/* Body */
+body{
+	height:100%;
+    background-image: url(bg.png);
+    background-color: #400e19;
+ 	background-repeat: repeat;
+ 
+}
+/* 
+body{
+	height:100%;
+    background: linear-gradient(180deg, rgba(78,13,30,1) 0%, rgba(237,2,82,1) 43%, rgba(77,13,30,1) 93%, rgba(64,14,25,1) 100%);
+    background-color: #400e19;
+ 	background-repeat: no-repeat;
+ 
+}
+*/
+
+.form {	
+	border-radius: 0px;
+	background: #ffffff;
+	max-width: 750px;
+	padding: 6px;
+	margin: 0px;
+}
+ .linktext1	{
+    font-family: Arial, Helvetica, sans-serif;
+ 	color: #ffffff;
+ 	text-decoration: none;
+ 	border-radius: 0px;
+ 	background: #CA2E4D;
+ 	padding: 8%; 
+ 	width: 84%;
+    margin-bottom: 0.5%;
+  	display: inline-block;
+ }
+ .linktext2	{
+    font-family: Arial, Helvetica, sans-serif;
+	color: #ffffff;
+ 	text-decoration: none;
+ 	border-radius: 0px;
+ 	background: #3A357A;
+ 	padding: 8%; 
+ 	width: 84%;
+    margin-bottom: 0.5%;
+  	display: inline-block;
+ }
+ .linktext3	{
+    font-family: Arial, Helvetica, sans-serif;
+	color: #ffffff;
+ 	text-decoration: none;
+ 	border-radius: 0px;
+ 	background: #3A357A;
+ 	padding: 8%; 
+ 	width: 84%;
+  	display: inline-block;
+ }
+ .bio	{
+ 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #5C5C61;
+	text-decoration: none;
+	padding: 1%;
+	font-size: 1em;
+	text-align: center;
+	width:94%;
+}
+ .img {border-radius: 0px;
+	 width: 100%;
+}
