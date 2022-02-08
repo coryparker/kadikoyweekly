@@ -4,6 +4,8 @@ body{
     background-image: url(bg.png);
     background-color: #400e19;
  	background-repeat: repeat;
+	background-attachment: fixed;
+
  
 }
 .form {	
