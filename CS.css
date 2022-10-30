@@ -1,13 +1,17 @@
 /* Body */
 body{
-    	background-color: white;
+	height:100%;
+  	background-image: url(bg.png);
+    background-repeat: repeat;
+    background-color: black;
 }
 .form {	
 	border-radius: 0px;
 	background: #ffffff;
 	max-width: 750px;
-	padding: 0px;
+	padding: 10px;
 	margin: 0px;
+    width: 100%;
 }
  .linktext1	{
     font-family: Arial, Helvetica, sans-serif;
@@ -16,7 +20,7 @@ body{
  	background: #FE572F;
  	padding: 8%; 
  	width: 84%;
-   	margin-bottom: 2%;
+    margin-bottom: 2%;
   	display: inline-block;
  }
  .linktext2	{
