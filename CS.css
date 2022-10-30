@@ -2,23 +2,21 @@
 body{
 	height:100%;
   	background-image: url(bg.png);
-  	background-repeat: repeat;
-	background-color: black;
-
+    background-repeat: repeat;
+    background-color: black;
 }
 .form {	
-	border-radius: 8px;
+	border-radius: 0px;
 	background: #ffffff;
 	max-width: 750px;
-	padding: 6px;
+	padding: 10px;
 	margin: 0px;
 }
  .linktext1	{
     font-family: Arial, Helvetica, sans-serif;
  	color: #ffffff;
  	text-decoration: none;
- 	border-radius: 8px;
- 	background: #C82A52;
+ 	background: #FE572F;
  	padding: 8%; 
  	width: 84%;
     margin-bottom: 2%;
@@ -28,8 +26,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 	color: #ffffff;
  	text-decoration: none;
- 	border-radius: 8px;
- 	background: #3A357A;
+ 	background: #FD1E51;
  	padding: 8%; 
  	width: 84%;
     margin-bottom: 2%;
@@ -39,23 +36,15 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 	color: #ffffff;
  	text-decoration: none;
- 	border-radius: 8px;
- 	background: #3A357A;
+ 	background: #174753;
  	padding: 8%; 
  	width: 84%;
   	display: inline-block;
  }
- .bio	{
- 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	color: #5C5C61;
-	text-decoration: none;
-	padding: 1%;
-	font-size: 1em;
-	text-align: center;
-	width:94%;
-}
- .img {border-radius: 8px;
+ .img {
     width: 100%;
-    margin-bottom: 1.5%;
-
+}
+ .byline {
+    width: 100%;
+    padding-bottom: 11%;
 }
