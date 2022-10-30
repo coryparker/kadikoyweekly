@@ -1,9 +1,6 @@
 /* Body */
 body{
-	height:100%;
-  	background-image: url(bg.png);
-    background-repeat: repeat;
-    background-color: black;
+    	background-color: white;
 }
 .form {	
 	border-radius: 0px;
@@ -19,7 +16,7 @@ body{
  	background: #FE572F;
  	padding: 8%; 
  	width: 84%;
-    margin-bottom: 2%;
+   	margin-bottom: 2%;
   	display: inline-block;
  }
  .linktext2	{
