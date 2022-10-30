@@ -3,20 +3,20 @@ body{
 	height:100%;
   	background-image: url(bg.png);
     background-repeat: repeat;
-    background-color: black;
-    margin: 2px;
+    background-color: white;
 }
 .form {	
 	border-radius: 0px;
 	background: #ffffff;
 	max-width: 450px;
 	padding: 8px;
-	margin: 0px;
-    width: 95%;
+	margin: 3px;
+    width: 100%;
 }
  .linktext1	{
     font-family: Arial, Helvetica, sans-serif;
- 	color: #ffffff;
+    font-size: large;
+    color: #ffffff;
  	text-decoration: none;
  	background: #FE572F;
  	padding: 8%; 
@@ -27,6 +27,7 @@ body{
  }
  .linktext2	{
     font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
 	color: #ffffff;
  	text-decoration: none;
  	background: #FD1E51;
@@ -38,6 +39,7 @@ body{
  }
  .linktext3	{
     font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
 	color: #ffffff;
  	text-decoration: none;
  	background: #174753;
@@ -47,10 +49,10 @@ body{
     border-radius: 3px;
 }
  .img {
-    width: 100%;
+    width: 90%;
     padding-bottom: 2%;
 }
  .byline {
-    width: 100%;
+    width: 90%;
     padding-bottom: 4%;
 }
