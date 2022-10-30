@@ -8,7 +8,7 @@ body{
 .form {	
 	border-radius: 0px;
 	background: #ffffff;
-	max-width: 750px;
+	max-width: 550px;
 	padding: 10px;
 	margin: 0px;
     width: 100%;
@@ -44,6 +44,7 @@ body{
  }
  .img {
     width: 100%;
+    padding-bottom: 2%;
 }
  .byline {
     width: 100%;
