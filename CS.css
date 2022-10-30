@@ -12,7 +12,7 @@ body{
 	max-width: 450px;
 	padding: 8px;
 	margin: 0px;
-    width: 100%;
+    width: 98%;
 }
  .linktext1	{
     font-family: Arial, Helvetica, sans-serif;
@@ -21,8 +21,10 @@ body{
  	background: #FE572F;
  	padding: 8%; 
  	width: 84%;
+    margin-bottom: 2%;
   	display: inline-block;
-}
+    border-radius: 3px;
+ }
  .linktext2	{
     font-family: Arial, Helvetica, sans-serif;
 	color: #ffffff;
@@ -30,7 +32,9 @@ body{
  	background: #FD1E51;
  	padding: 8%; 
  	width: 84%;
+    margin-bottom: 2%;
   	display: inline-block;
+    border-radius: 3px;
  }
  .linktext3	{
     font-family: Arial, Helvetica, sans-serif;
@@ -40,6 +44,7 @@ body{
  	padding: 8%; 
  	width: 84%;
   	display: inline-block;
+    border-radius: 3px;
 }
  .img {
     width: 100%;
