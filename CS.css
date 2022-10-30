@@ -4,11 +4,12 @@ body{
   	background-image: url(bg.png);
     background-repeat: repeat;
     background-color: black;
+    margin: 0px;
 }
 .form {	
 	border-radius: 0px;
 	background: #ffffff;
-	max-width: 400px;
+	max-width: 450px;
 	padding: 8px;
 	margin: 0px;
     width: 100%;
