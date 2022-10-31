@@ -1,17 +1,12 @@
 /* Body */
 body{
-	height:100%;
-  	background-image: url(bg.png);
-    background-repeat: repeat;
-    background-color: black;
-    margin: 5px;
+    background-color: white;
 }
 .form {	
-	border-radius: 3px;
 	background: #ffffff;
 	max-width: 450px;
-	padding: 8px;
-    width: 95%;
+    width: 94%;
+    align-content: center;
 }
  .linktext1	{
     font-family: Arial, Helvetica, sans-serif;
@@ -23,7 +18,7 @@ body{
  	width: 84%;
     margin-bottom: 2%;
   	display: inline-block;
-    border-radius: 3px;
+    border-radius: 10px;
  }
  .linktext2	{
     font-family: Arial, Helvetica, sans-serif;
@@ -35,7 +30,7 @@ body{
  	width: 84%;
     margin-bottom: 2%;
   	display: inline-block;
-    border-radius: 3px;
+    border-radius: 10px;
  }
  .linktext3	{
     font-family: Arial, Helvetica, sans-serif;
@@ -46,13 +41,13 @@ body{
  	padding: 8%; 
  	width: 84%;
   	display: inline-block;
-    border-radius: 3px;
+    border-radius: 10px;
 }
  .img {
-    width: 100%;
+    width: 90%;
     padding-bottom: 2%;
 }
  .byline {
-    width: 100%;
-    padding-bottom: 4%;
+    width: 90%;
+    padding-bottom: 2%;
 }
