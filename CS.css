@@ -1,10 +1,10 @@
 /* Body */
 body{
 	height:100%;
+    width: 100%;
   	background-image: url(bg.png);
-    background-repeat: repeat;
-    background-color: black;
-    margin: 5px;
+    background-color: white;
+    margin-top: 5%;
 }
 .form {	
 	border-radius: 3px;
