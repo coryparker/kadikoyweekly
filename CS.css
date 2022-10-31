@@ -1,13 +1,10 @@
 /* Body */
 body{
-	height:100%;
-    width: 100%;
   	background-image: url(bg.png);
     background-color: white;
     margin-top: 5%;
 }
 .form {	
-	border-radius: 3px;
 	background: #ffffff;
 	max-width: 450px;
 	padding: 8px;
