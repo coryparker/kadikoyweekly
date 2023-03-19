@@ -1,7 +1,7 @@
 /* Body */
 body{
   	background-image: url(bg.png);
-    background-image: 
+    background-attachment:scroll;
     margin-top: 5%;
 }
 .form {	
