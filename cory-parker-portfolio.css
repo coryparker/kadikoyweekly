@@ -10,7 +10,10 @@
     .skip:focus { left:10px; }
     .wrap { width:min(100% - 96px,1360px); margin-inline:auto; }
     header { padding:28px 0; }
-    header .wrap { display:flex; justify-content:space-between; align-items:center; gap:24px; }
+header .wrap {
+  display: flex;
+  justify-content: center;
+}
     .site-name { font-family:Instrument,Georgia,serif; font-size:28px; line-height:1; text-decoration:none; }
     nav { display:flex; gap:30px; font-size:14px; }
     nav a { text-decoration:none; }
