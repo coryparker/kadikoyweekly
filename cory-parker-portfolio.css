@@ -86,7 +86,7 @@ footer .wrap { display:flex; justify-content:space-between; gap:20px; }
 
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
 
-/* Bright orange accents and centered menu */
+/* Bright orange accents and publication colors */
 header { padding:30px 0 0; }
 header .wrap { justify-content:center; }
 .site-name { display:none; }
@@ -101,6 +101,9 @@ nav a:hover, nav a:focus-visible { color:var(--accent); }
 .work-row:hover { color:var(--accent); opacity:1; }
 .work-row:hover .summary, .work-row:hover .detail { color:var(--muted); }
 .contact { background:var(--paper); }
+#writing .work-row .detail strong { color:#d60035; }
+#editing .pub-islands { color:#087c78; }
+#editing .pub-explore { color:#488b5c; }
 
 @media(max-width:800px) {
   nav { gap:20px; }
